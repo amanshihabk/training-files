@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.5)
+
+project(linked_stack)
+
+add_executable(hello_cmake main.c)
